@@ -1,0 +1,141 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    background-image: url("images/top-banner.png");
+    border: 1px red;
+    background-repeat: no-repeat;
+    margin:0;
+
+}
+h1{
+    font-size: 70px;
+    color: #363958;
+    line-height: 0.2;
+    top: 183.36px;
+}
+.orange-highlight{
+    color:orangered;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+  }
+  .projects img {
+    width: 100%;
+    float: left;
+    margin-left: -5%;
+    padding-left: 2%;
+    margin-top: 5%;
+  }
+.half-width img{
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding:10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);  
+    line-height: 5;
+}
+
+section{
+    height:500px;
+    padding-bottom: 150px;
+}
+h2{
+    font-size: 40px;
+    color: #363958;
+}
+
+.dream-area {
+    background-image: url("../images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.left-one{
+    margin-left: 135px;
+}
+.other-one{
+    margin-left: 30px;
+}
+.right-one{
+    margin-left: 30px;
+}
+.box-sizes{
+    width: 20%;
+    float: left;
+    margin-top:14px;
+    padding-left: 2%;
+    border-radius: 5px;
+    height: 50%;
+    background-color:white; 
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 19.7436px;
+    width: 370px;
+    height: 374px;
+    left: 135px;
+    top: 1454px;
+}
+
+
+#full-stack{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg,lightsalmon, tomato) ;
+    border-image-slice: 1;
+}
+
+.experience-area{
+    background-color:#E5E5E5;
+    height:700px;
+    width:1525px;
+}
+.middle{
+    text-align: center; 
+    line-height: 5;
+}
+.margin-position{
+   margin-top: 183.36px;
+}
+.paragraph-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+#baby-web{
+    border-left: 4px solid;
+    border-image:linear-gradient(180deg,blue,cyan) ;
+    border-image-slice: 1;
+
+}
+.project-headings{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #363958;
+}
+.project-descriptions{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #6C6C6C;
+}
+.center {
+    display: block;
+    margin-top: 136px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  
